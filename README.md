@@ -1,6 +1,6 @@
 # FastAPI Backend Learning
 
-Este repositorio contiene un backend completo construido con **FastAPI** y **Python**, desarrollado como parte de un proceso de aprendizaje (basado en el curso de [MoureDev](https://mouredev.com/)).
+Este repositorio contiene un backend completo construido con **FastAPI** y **Python**, desarrollado como parte de un proceso de aprendizaje.
 
 El proyecto incluye ejemplos prácticos de creación de una API RESTful, integración con bases de datos NoSQL (MongoDB) y sistemas de autenticación robustos.
 
